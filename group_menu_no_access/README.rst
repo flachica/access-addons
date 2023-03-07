@@ -1,3 +1,7 @@
+====================
+Group Menu No Access
+====================
+
 .. image:: https://itpp.dev/images/infinity-readme.png
    :alt: Tested and maintained by IT Projects Labs
    :target: https://itpp.dev
@@ -6,24 +10,32 @@
    :target: https://opensource.org/licenses/MIT
    :alt: License: MIT
 
-======================
- Group Menu No Access
-======================
+**Table of contents**
 
-New setting for menu that blocks access to the menu
+.. contents::
+   :local:
 
-Questions?
-==========
+Usage
+======
 
-To get an assistance on this module contact us by email :arrow_right: help@itpp.dev
+* RESULT: sections closed to assigned users are invisible now and they can't access to these sections with the direct link
+
+Credits
+========
+
+Authors
+~~~~~~~
+
+* Cesar Lage
 
 Contributors
-============
-* 'Ildar Nasyrov <iledarn@it-projects.info>'__
+~~~~~~~~~~~~
 
+* Ildar Nasyrov <iledarn@it-projects.info>
+* Fernando La Chica <disashop.com>
 
-Further information
-===================
+Other credits
+~~~~~~~~~~~~~
 
 Odoo Apps Store: https://apps.odoo.com/apps/modules/13.0/group_menu_no_access/
 
