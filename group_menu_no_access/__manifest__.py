@@ -3,7 +3,7 @@
 
 {
     "name": "Group Menu No Access",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Access",
     "author": "Cesar Lage",
     "website": "https://github.com/OCA/rest-framework",
